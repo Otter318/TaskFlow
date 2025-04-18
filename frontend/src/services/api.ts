@@ -60,3 +60,5 @@ export const authApi = {
     return response.data;
   }
 };
+
+const API_URL = import.meta.env.VITE_API_URL || 'https://taskmanager-backend.fly.dev';
