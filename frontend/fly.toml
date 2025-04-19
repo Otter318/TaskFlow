@@ -13,4 +13,5 @@ primary_region = "iad" # Same region as backend for low latency
 
 [env]
   # Add frontend-specific environment variables, e.g., API base URL
-  VITE_API_URL = "https://task-manager-backend.fly.dev" # Backend app URL
+  VITE_API_URL = "https://taskflow-l6asla.fly.dev"
+# Backend app URL
